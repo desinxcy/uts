@@ -35,7 +35,7 @@ if (isset($_POST['ubah'])) {
 <head>
     <meta charset="UTF-8">
     <title>Ubah Data</title>
-    <link rel="stylesheet" href="tambah.css"> 
+    <link rel="stylesheet" href="styling/tambah.css"> 
 </head>
 <body>
     <form method="POST">
